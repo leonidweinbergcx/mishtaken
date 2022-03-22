@@ -1,0 +1,1202 @@
+[
+  {
+    "Apartments": 13,
+    "City": "טורעאן",
+    "LotteryID": "1978",
+    "Sqm price": "4459",
+    "Subscribers": 51,
+    "Win chance": "25.49"
+  },
+  {
+    "Apartments": 59,
+    "City": "דימונה",
+    "LotteryID": "1927",
+    "Sqm price": "6369",
+    "Subscribers": 411,
+    "Win chance": "14.36"
+  },
+  {
+    "Apartments": 33,
+    "City": "דימונה",
+    "LotteryID": "1928",
+    "Sqm price": "5994",
+    "Subscribers": 419,
+    "Win chance": "7.88"
+  },
+  {
+    "Apartments": 30,
+    "City": "דימונה",
+    "LotteryID": "1929",
+    "Sqm price": "6629",
+    "Subscribers": 382,
+    "Win chance": "7.85"
+  },
+  {
+    "Apartments": 76,
+    "City": "עכו",
+    "LotteryID": "1901",
+    "Sqm price": "7722",
+    "Subscribers": 995,
+    "Win chance": "7.64"
+  },
+  {
+    "Apartments": 26,
+    "City": "דימונה",
+    "LotteryID": "1931",
+    "Sqm price": "6231",
+    "Subscribers": 411,
+    "Win chance": "6.33"
+  },
+  {
+    "Apartments": 68,
+    "City": "טבריה",
+    "LotteryID": "1915",
+    "Sqm price": "8328",
+    "Subscribers": 1147,
+    "Win chance": "5.93"
+  },
+  {
+    "Apartments": 27,
+    "City": "דימונה",
+    "LotteryID": "1930",
+    "Sqm price": "5850",
+    "Subscribers": 458,
+    "Win chance": "5.90"
+  },
+  {
+    "Apartments": 23,
+    "City": "דימונה",
+    "LotteryID": "1934",
+    "Sqm price": "6348",
+    "Subscribers": 400,
+    "Win chance": "5.75"
+  },
+  {
+    "Apartments": 61,
+    "City": "עכו",
+    "LotteryID": "1902",
+    "Sqm price": "6786",
+    "Subscribers": 1070,
+    "Win chance": "5.70"
+  },
+  {
+    "Apartments": 22,
+    "City": "דימונה",
+    "LotteryID": "1935",
+    "Sqm price": "6499",
+    "Subscribers": 386,
+    "Win chance": "5.70"
+  },
+  {
+    "Apartments": 24,
+    "City": "דימונה",
+    "LotteryID": "1933",
+    "Sqm price": "6148",
+    "Subscribers": 432,
+    "Win chance": "5.56"
+  },
+  {
+    "Apartments": 87,
+    "City": "רכסים",
+    "LotteryID": "1979",
+    "Sqm price": "6318",
+    "Subscribers": 1577,
+    "Win chance": "5.52"
+  },
+  {
+    "Apartments": 25,
+    "City": "דימונה",
+    "LotteryID": "1932",
+    "Sqm price": "5265",
+    "Subscribers": 456,
+    "Win chance": "5.48"
+  },
+  {
+    "Apartments": 50,
+    "City": "עכו",
+    "LotteryID": "1904",
+    "Sqm price": "7722",
+    "Subscribers": 955,
+    "Win chance": "5.24"
+  },
+  {
+    "Apartments": 51,
+    "City": "עכו",
+    "LotteryID": "1903",
+    "Sqm price": "7722",
+    "Subscribers": 977,
+    "Win chance": "5.22"
+  },
+  {
+    "Apartments": 19,
+    "City": "דימונה",
+    "LotteryID": "1936",
+    "Sqm price": "6629",
+    "Subscribers": 382,
+    "Win chance": "4.97"
+  },
+  {
+    "Apartments": 17,
+    "City": "דימונה",
+    "LotteryID": "1937",
+    "Sqm price": "6369",
+    "Subscribers": 390,
+    "Win chance": "4.36"
+  },
+  {
+    "Apartments": 43,
+    "City": "עכו",
+    "LotteryID": "1905",
+    "Sqm price": "6786",
+    "Subscribers": 1020,
+    "Win chance": "4.22"
+  },
+  {
+    "Apartments": 59,
+    "City": "רכסים",
+    "LotteryID": "1980",
+    "Sqm price": "6318",
+    "Subscribers": 1530,
+    "Win chance": "3.86"
+  },
+  {
+    "Apartments": 36,
+    "City": "עכו",
+    "LotteryID": "1906",
+    "Sqm price": "7722",
+    "Subscribers": 936,
+    "Win chance": "3.85"
+  },
+  {
+    "Apartments": 134,
+    "City": "לוד",
+    "LotteryID": "1868",
+    "Sqm price": "10413",
+    "Subscribers": 3720,
+    "Win chance": "3.60"
+  },
+  {
+    "Apartments": 14,
+    "City": "דימונה",
+    "LotteryID": "1938",
+    "Sqm price": "6369",
+    "Subscribers": 399,
+    "Win chance": "3.51"
+  },
+  {
+    "Apartments": 39,
+    "City": "טבריה",
+    "LotteryID": "1916",
+    "Sqm price": "8482",
+    "Subscribers": 1117,
+    "Win chance": "3.49"
+  },
+  {
+    "Apartments": 39,
+    "City": "טבריה",
+    "LotteryID": "1917",
+    "Sqm price": "8709",
+    "Subscribers": 1121,
+    "Win chance": "3.48"
+  },
+  {
+    "Apartments": 35,
+    "City": "עכו",
+    "LotteryID": "1907",
+    "Sqm price": "6786",
+    "Subscribers": 1014,
+    "Win chance": "3.45"
+  },
+  {
+    "Apartments": 52,
+    "City": "רכסים",
+    "LotteryID": "1981",
+    "Sqm price": "6318",
+    "Subscribers": 1513,
+    "Win chance": "3.44"
+  },
+  {
+    "Apartments": 14,
+    "City": "דימונה",
+    "LotteryID": "1939",
+    "Sqm price": "6415",
+    "Subscribers": 431,
+    "Win chance": "3.25"
+  },
+  {
+    "Apartments": 31,
+    "City": "עכו",
+    "LotteryID": "1909",
+    "Sqm price": "7722",
+    "Subscribers": 960,
+    "Win chance": "3.23"
+  },
+  {
+    "Apartments": 31,
+    "City": "עכו",
+    "LotteryID": "1910",
+    "Sqm price": "7722",
+    "Subscribers": 966,
+    "Win chance": "3.21"
+  },
+  {
+    "Apartments": 31,
+    "City": "עכו",
+    "LotteryID": "1908",
+    "Sqm price": "6786",
+    "Subscribers": 996,
+    "Win chance": "3.11"
+  },
+  {
+    "Apartments": 64,
+    "City": "טירת כרמל",
+    "LotteryID": "1960",
+    "Sqm price": "9009",
+    "Subscribers": 2100,
+    "Win chance": "3.05"
+  },
+  {
+    "Apartments": 12,
+    "City": "דימונה",
+    "LotteryID": "1941",
+    "Sqm price": "6369",
+    "Subscribers": 398,
+    "Win chance": "3.02"
+  },
+  {
+    "Apartments": 13,
+    "City": "דימונה",
+    "LotteryID": "1940",
+    "Sqm price": "5616",
+    "Subscribers": 441,
+    "Win chance": "2.95"
+  },
+  {
+    "Apartments": 12,
+    "City": "דימונה",
+    "LotteryID": "1942",
+    "Sqm price": "6369",
+    "Subscribers": 415,
+    "Win chance": "2.89"
+  },
+  {
+    "Apartments": 110,
+    "City": "לוד",
+    "LotteryID": "1869",
+    "Sqm price": "11934",
+    "Subscribers": 3815,
+    "Win chance": "2.88"
+  },
+  {
+    "Apartments": 29,
+    "City": "עכו",
+    "LotteryID": "1911",
+    "Sqm price": "6786",
+    "Subscribers": 1021,
+    "Win chance": "2.84"
+  },
+  {
+    "Apartments": 41,
+    "City": "רכסים",
+    "LotteryID": "1982",
+    "Sqm price": "6318",
+    "Subscribers": 1487,
+    "Win chance": "2.76"
+  },
+  {
+    "Apartments": 107,
+    "City": "לוד",
+    "LotteryID": "1871",
+    "Sqm price": "12402",
+    "Subscribers": 3934,
+    "Win chance": "2.72"
+  },
+  {
+    "Apartments": 107,
+    "City": "לוד",
+    "LotteryID": "1870",
+    "Sqm price": "12402",
+    "Subscribers": 3960,
+    "Win chance": "2.70"
+  },
+  {
+    "Apartments": 33,
+    "City": "טבריה",
+    "LotteryID": "1986",
+    "Sqm price": "7254",
+    "Subscribers": 1241,
+    "Win chance": "2.66"
+  },
+  {
+    "Apartments": 15,
+    "City": "נצרת",
+    "LotteryID": "1883",
+    "Sqm price": "7137",
+    "Subscribers": 586,
+    "Win chance": "2.56"
+  },
+  {
+    "Apartments": 26,
+    "City": "עכו",
+    "LotteryID": "1912",
+    "Sqm price": "6786",
+    "Subscribers": 1022,
+    "Win chance": "2.54"
+  },
+  {
+    "Apartments": 70,
+    "City": "באר שבע",
+    "LotteryID": "1856",
+    "Sqm price": "8610",
+    "Subscribers": 2861,
+    "Win chance": "2.45"
+  },
+  {
+    "Apartments": 91,
+    "City": "לוד",
+    "LotteryID": "1872",
+    "Sqm price": "11934",
+    "Subscribers": 3721,
+    "Win chance": "2.45"
+  },
+  {
+    "Apartments": 45,
+    "City": "נהרייה",
+    "LotteryID": "1885",
+    "Sqm price": "7020",
+    "Subscribers": 1841,
+    "Win chance": "2.44"
+  },
+  {
+    "Apartments": 16,
+    "City": "נצרת",
+    "LotteryID": "1882",
+    "Sqm price": "4446",
+    "Subscribers": 656,
+    "Win chance": "2.44"
+  },
+  {
+    "Apartments": 43,
+    "City": "נהרייה",
+    "LotteryID": "1886",
+    "Sqm price": "7020",
+    "Subscribers": 1794,
+    "Win chance": "2.40"
+  },
+  {
+    "Apartments": 92,
+    "City": "בת חפר",
+    "LotteryID": "1983",
+    "Sqm price": "7197",
+    "Subscribers": 3900,
+    "Win chance": "2.36"
+  },
+  {
+    "Apartments": 91,
+    "City": "לוד",
+    "LotteryID": "1873",
+    "Sqm price": "8424",
+    "Subscribers": 4053,
+    "Win chance": "2.25"
+  },
+  {
+    "Apartments": 20,
+    "City": "עכו",
+    "LotteryID": "1913",
+    "Sqm price": "7722",
+    "Subscribers": 932,
+    "Win chance": "2.15"
+  },
+  {
+    "Apartments": 79,
+    "City": "לוד",
+    "LotteryID": "1875",
+    "Sqm price": "11934",
+    "Subscribers": 3702,
+    "Win chance": "2.13"
+  },
+  {
+    "Apartments": 81,
+    "City": "בת חפר",
+    "LotteryID": "1984",
+    "Sqm price": "8033",
+    "Subscribers": 3798,
+    "Win chance": "2.13"
+  },
+  {
+    "Apartments": 79,
+    "City": "לוד",
+    "LotteryID": "1874",
+    "Sqm price": "11934",
+    "Subscribers": 3718,
+    "Win chance": "2.12"
+  },
+  {
+    "Apartments": 14,
+    "City": "בית שאן",
+    "LotteryID": "1968",
+    "Sqm price": "4467",
+    "Subscribers": 669,
+    "Win chance": "2.09"
+  },
+  {
+    "Apartments": 15,
+    "City": "קריית שמונה",
+    "LotteryID": "1962",
+    "Sqm price": "6888",
+    "Subscribers": 717,
+    "Win chance": "2.09"
+  },
+  {
+    "Apartments": 25,
+    "City": "טבריה",
+    "LotteryID": "1918",
+    "Sqm price": "7254",
+    "Subscribers": 1211,
+    "Win chance": "2.06"
+  },
+  {
+    "Apartments": 78,
+    "City": "לוד",
+    "LotteryID": "1876",
+    "Sqm price": "12402",
+    "Subscribers": 3918,
+    "Win chance": "1.99"
+  },
+  {
+    "Apartments": 131,
+    "City": "בני ברק",
+    "LotteryID": "1862",
+    "Sqm price": "14216",
+    "Subscribers": 6942,
+    "Win chance": "1.89"
+  },
+  {
+    "Apartments": 36,
+    "City": "טירת כרמל",
+    "LotteryID": "1961",
+    "Sqm price": "9009",
+    "Subscribers": 1929,
+    "Win chance": "1.87"
+  },
+  {
+    "Apartments": 13,
+    "City": "קריית שמונה",
+    "LotteryID": "1963",
+    "Sqm price": "6885",
+    "Subscribers": 699,
+    "Win chance": "1.86"
+  },
+  {
+    "Apartments": 12,
+    "City": "כרמיאל",
+    "LotteryID": "1914",
+    "Sqm price": "8073",
+    "Subscribers": 653,
+    "Win chance": "1.84"
+  },
+  {
+    "Apartments": 72,
+    "City": "אור עקיבא",
+    "LotteryID": "1964",
+    "Sqm price": "11232",
+    "Subscribers": 4032,
+    "Win chance": "1.79"
+  },
+  {
+    "Apartments": 69,
+    "City": "אור עקיבא",
+    "LotteryID": "1965",
+    "Sqm price": "11232",
+    "Subscribers": 3877,
+    "Win chance": "1.78"
+  },
+  {
+    "Apartments": 68,
+    "City": "אור עקיבא",
+    "LotteryID": "1966",
+    "Sqm price": "11232",
+    "Subscribers": 3852,
+    "Win chance": "1.77"
+  },
+  {
+    "Apartments": 68,
+    "City": "בת חפר",
+    "LotteryID": "1985",
+    "Sqm price": "6733",
+    "Subscribers": 3859,
+    "Win chance": "1.76"
+  },
+  {
+    "Apartments": 11,
+    "City": "בית שאן",
+    "LotteryID": "1969",
+    "Sqm price": "4467",
+    "Subscribers": 643,
+    "Win chance": "1.71"
+  },
+  {
+    "Apartments": 26,
+    "City": "קריית טבעון",
+    "LotteryID": "1976",
+    "Sqm price": "9568",
+    "Subscribers": 1546,
+    "Win chance": "1.68"
+  },
+  {
+    "Apartments": 64,
+    "City": "לוד",
+    "LotteryID": "1877",
+    "Sqm price": "12402",
+    "Subscribers": 3885,
+    "Win chance": "1.65"
+  },
+  {
+    "Apartments": 9,
+    "City": "נצרת",
+    "LotteryID": "1884",
+    "Sqm price": "7137",
+    "Subscribers": 591,
+    "Win chance": "1.52"
+  },
+  {
+    "Apartments": 164,
+    "City": "אשדוד",
+    "LotteryID": "1851",
+    "Sqm price": "13689",
+    "Subscribers": 10863,
+    "Win chance": "1.51"
+  },
+  {
+    "Apartments": 18,
+    "City": "טבריה",
+    "LotteryID": "1919",
+    "Sqm price": "7254",
+    "Subscribers": 1216,
+    "Win chance": "1.48"
+  },
+  {
+    "Apartments": 51,
+    "City": "אופקים",
+    "LotteryID": "1944",
+    "Sqm price": "5850",
+    "Subscribers": 3466,
+    "Win chance": "1.47"
+  },
+  {
+    "Apartments": 51,
+    "City": "אופקים",
+    "LotteryID": "1943",
+    "Sqm price": "5850",
+    "Subscribers": 3657,
+    "Win chance": "1.39"
+  },
+  {
+    "Apartments": 33,
+    "City": "אילת",
+    "LotteryID": "1893",
+    "Sqm price": "8700",
+    "Subscribers": 2405,
+    "Win chance": "1.37"
+  },
+  {
+    "Apartments": 92,
+    "City": "בני ברק",
+    "LotteryID": "1863",
+    "Sqm price": "14216",
+    "Subscribers": 6705,
+    "Win chance": "1.37"
+  },
+  {
+    "Apartments": 53,
+    "City": "אור עקיבא",
+    "LotteryID": "1967",
+    "Sqm price": "11232",
+    "Subscribers": 3869,
+    "Win chance": "1.37"
+  },
+  {
+    "Apartments": 149,
+    "City": "אשדוד",
+    "LotteryID": "1852",
+    "Sqm price": "13572",
+    "Subscribers": 10921,
+    "Win chance": "1.36"
+  },
+  {
+    "Apartments": 52,
+    "City": "לוד",
+    "LotteryID": "1878",
+    "Sqm price": "12402",
+    "Subscribers": 3907,
+    "Win chance": "1.33"
+  },
+  {
+    "Apartments": 8,
+    "City": "בית שאן",
+    "LotteryID": "1971",
+    "Sqm price": "4467",
+    "Subscribers": 618,
+    "Win chance": "1.29"
+  },
+  {
+    "Apartments": 8,
+    "City": "בית שאן",
+    "LotteryID": "1970",
+    "Sqm price": "4467",
+    "Subscribers": 630,
+    "Win chance": "1.27"
+  },
+  {
+    "Apartments": 136,
+    "City": "אשדוד",
+    "LotteryID": "1853",
+    "Sqm price": "13572",
+    "Subscribers": 10729,
+    "Win chance": "1.27"
+  },
+  {
+    "Apartments": 127,
+    "City": "אשדוד",
+    "LotteryID": "1854",
+    "Sqm price": "13572",
+    "Subscribers": 10731,
+    "Win chance": "1.18"
+  },
+  {
+    "Apartments": 90,
+    "City": "אשקלון",
+    "LotteryID": "1864",
+    "Sqm price": "9009",
+    "Subscribers": 7860,
+    "Win chance": "1.15"
+  },
+  {
+    "Apartments": 7,
+    "City": "בית שאן",
+    "LotteryID": "1972",
+    "Sqm price": "4467",
+    "Subscribers": 622,
+    "Win chance": "1.13"
+  },
+  {
+    "Apartments": 89,
+    "City": "ירושלים",
+    "LotteryID": "1836",
+    "Sqm price": "16591",
+    "Subscribers": 7912,
+    "Win chance": "1.12"
+  },
+  {
+    "Apartments": 141,
+    "City": "תל אביב -יפו",
+    "LotteryID": "1845",
+    "Sqm price": "17433",
+    "Subscribers": 12549,
+    "Win chance": "1.12"
+  },
+  {
+    "Apartments": 16,
+    "City": "קריית טבעון",
+    "LotteryID": "1977",
+    "Sqm price": "10126",
+    "Subscribers": 1433,
+    "Win chance": "1.12"
+  },
+  {
+    "Apartments": 25,
+    "City": "אילת",
+    "LotteryID": "1894",
+    "Sqm price": "8500",
+    "Subscribers": 2426,
+    "Win chance": "1.03"
+  },
+  {
+    "Apartments": 15,
+    "City": "מעלה אדומים",
+    "LotteryID": "1922",
+    "Sqm price": "13519",
+    "Subscribers": 1475,
+    "Win chance": "1.02"
+  },
+  {
+    "Apartments": 76,
+    "City": "ירושלים",
+    "LotteryID": "1837",
+    "Sqm price": "16591",
+    "Subscribers": 7556,
+    "Win chance": "1.01"
+  },
+  {
+    "Apartments": 113,
+    "City": "אשדוד",
+    "LotteryID": "1855",
+    "Sqm price": "11934",
+    "Subscribers": 11289,
+    "Win chance": "1.00"
+  },
+  {
+    "Apartments": 46,
+    "City": "לוד",
+    "LotteryID": "1879",
+    "Sqm price": "9243",
+    "Subscribers": 4621,
+    "Win chance": "1.00"
+  },
+  {
+    "Apartments": 74,
+    "City": "אשקלון",
+    "LotteryID": "1865",
+    "Sqm price": "9009",
+    "Subscribers": 7453,
+    "Win chance": "0.99"
+  },
+  {
+    "Apartments": 6,
+    "City": "בית שאן",
+    "LotteryID": "1973",
+    "Sqm price": "4467",
+    "Subscribers": 623,
+    "Win chance": "0.96"
+  },
+  {
+    "Apartments": 70,
+    "City": "אשקלון",
+    "LotteryID": "1866",
+    "Sqm price": "9009",
+    "Subscribers": 7431,
+    "Win chance": "0.94"
+  },
+  {
+    "Apartments": 6,
+    "City": "בית שאן",
+    "LotteryID": "1974",
+    "Sqm price": "4467",
+    "Subscribers": 639,
+    "Win chance": "0.94"
+  },
+  {
+    "Apartments": 192,
+    "City": "באר יעקב",
+    "LotteryID": "1956",
+    "Sqm price": "14157",
+    "Subscribers": 21068,
+    "Win chance": "0.91"
+  },
+  {
+    "Apartments": 14,
+    "City": "שדרות",
+    "LotteryID": "1954",
+    "Sqm price": "6720",
+    "Subscribers": 1555,
+    "Win chance": "0.90"
+  },
+  {
+    "Apartments": 24,
+    "City": "באר שבע",
+    "LotteryID": "1857",
+    "Sqm price": "9147",
+    "Subscribers": 2668,
+    "Win chance": "0.90"
+  },
+  {
+    "Apartments": 21,
+    "City": "אילת",
+    "LotteryID": "1895",
+    "Sqm price": "8887",
+    "Subscribers": 2396,
+    "Win chance": "0.88"
+  },
+  {
+    "Apartments": 24,
+    "City": "באר שבע",
+    "LotteryID": "1858",
+    "Sqm price": "8211",
+    "Subscribers": 2752,
+    "Win chance": "0.87"
+  },
+  {
+    "Apartments": 39,
+    "City": "לוד",
+    "LotteryID": "1881",
+    "Sqm price": "9243",
+    "Subscribers": 4495,
+    "Win chance": "0.87"
+  },
+  {
+    "Apartments": 39,
+    "City": "לוד",
+    "LotteryID": "1880",
+    "Sqm price": "9243",
+    "Subscribers": 4529,
+    "Win chance": "0.86"
+  },
+  {
+    "Apartments": 63,
+    "City": "אשקלון",
+    "LotteryID": "1867",
+    "Sqm price": "9009",
+    "Subscribers": 7342,
+    "Win chance": "0.86"
+  },
+  {
+    "Apartments": 27,
+    "City": "אופקים",
+    "LotteryID": "1945",
+    "Sqm price": "5850",
+    "Subscribers": 3330,
+    "Win chance": "0.81"
+  },
+  {
+    "Apartments": 58,
+    "City": "ירושלים",
+    "LotteryID": "1838",
+    "Sqm price": "17301",
+    "Subscribers": 7301,
+    "Win chance": "0.79"
+  },
+  {
+    "Apartments": 13,
+    "City": "עפולה",
+    "LotteryID": "1887",
+    "Sqm price": "6098",
+    "Subscribers": 1688,
+    "Win chance": "0.77"
+  },
+  {
+    "Apartments": 25,
+    "City": "אופקים",
+    "LotteryID": "1946",
+    "Sqm price": "5850",
+    "Subscribers": 3310,
+    "Win chance": "0.76"
+  },
+  {
+    "Apartments": 12,
+    "City": "עפולה",
+    "LotteryID": "1889",
+    "Sqm price": "6098",
+    "Subscribers": 1593,
+    "Win chance": "0.75"
+  },
+  {
+    "Apartments": 18,
+    "City": "אילת",
+    "LotteryID": "1897",
+    "Sqm price": "8700",
+    "Subscribers": 2401,
+    "Win chance": "0.75"
+  },
+  {
+    "Apartments": 18,
+    "City": "אילת",
+    "LotteryID": "1896",
+    "Sqm price": "8500",
+    "Subscribers": 2427,
+    "Win chance": "0.74"
+  },
+  {
+    "Apartments": 22,
+    "City": "אופקים",
+    "LotteryID": "1987",
+    "Sqm price": "7275",
+    "Subscribers": 3068,
+    "Win chance": "0.72"
+  },
+  {
+    "Apartments": 17,
+    "City": "באר שבע",
+    "LotteryID": "1860",
+    "Sqm price": "8958",
+    "Subscribers": 2399,
+    "Win chance": "0.71"
+  },
+  {
+    "Apartments": 23,
+    "City": "אופקים",
+    "LotteryID": "1947",
+    "Sqm price": "5850",
+    "Subscribers": 3292,
+    "Win chance": "0.70"
+  },
+  {
+    "Apartments": 11,
+    "City": "עפולה",
+    "LotteryID": "1890",
+    "Sqm price": "6098",
+    "Subscribers": 1595,
+    "Win chance": "0.69"
+  },
+  {
+    "Apartments": 11,
+    "City": "עפולה",
+    "LotteryID": "1891",
+    "Sqm price": "6098",
+    "Subscribers": 1622,
+    "Win chance": "0.68"
+  },
+  {
+    "Apartments": 4,
+    "City": "בית שאן",
+    "LotteryID": "1975",
+    "Sqm price": "4212",
+    "Subscribers": 666,
+    "Win chance": "0.60"
+  },
+  {
+    "Apartments": 14,
+    "City": "באר שבע",
+    "LotteryID": "1861",
+    "Sqm price": "8958",
+    "Subscribers": 2391,
+    "Win chance": "0.59"
+  },
+  {
+    "Apartments": 15,
+    "City": "חיפה",
+    "LotteryID": "1846",
+    "Sqm price": "13338",
+    "Subscribers": 2656,
+    "Win chance": "0.56"
+  },
+  {
+    "Apartments": 9,
+    "City": "עפולה",
+    "LotteryID": "1892",
+    "Sqm price": "6733",
+    "Subscribers": 1601,
+    "Win chance": "0.56"
+  },
+  {
+    "Apartments": 42,
+    "City": "ירושלים",
+    "LotteryID": "1839",
+    "Sqm price": "16591",
+    "Subscribers": 7472,
+    "Win chance": "0.56"
+  },
+  {
+    "Apartments": 13,
+    "City": "אילת",
+    "LotteryID": "1898",
+    "Sqm price": "8700",
+    "Subscribers": 2338,
+    "Win chance": "0.56"
+  },
+  {
+    "Apartments": 20,
+    "City": "אופקים",
+    "LotteryID": "1949",
+    "Sqm price": "4949",
+    "Subscribers": 3613,
+    "Win chance": "0.55"
+  },
+  {
+    "Apartments": 18,
+    "City": "אופקים",
+    "LotteryID": "1950",
+    "Sqm price": "6318",
+    "Subscribers": 3341,
+    "Win chance": "0.54"
+  },
+  {
+    "Apartments": 108,
+    "City": "ראשון לציון",
+    "LotteryID": "1848",
+    "Sqm price": "15678",
+    "Subscribers": 20241,
+    "Win chance": "0.53"
+  },
+  {
+    "Apartments": 111,
+    "City": "ראשון לציון",
+    "LotteryID": "1847",
+    "Sqm price": "15678",
+    "Subscribers": 21000,
+    "Win chance": "0.53"
+  },
+  {
+    "Apartments": 12,
+    "City": "אילת",
+    "LotteryID": "1899",
+    "Sqm price": "8700",
+    "Subscribers": 2334,
+    "Win chance": "0.51"
+  },
+  {
+    "Apartments": 38,
+    "City": "ירושלים",
+    "LotteryID": "1840",
+    "Sqm price": "16591",
+    "Subscribers": 7427,
+    "Win chance": "0.51"
+  },
+  {
+    "Apartments": 12,
+    "City": "אילת",
+    "LotteryID": "1900",
+    "Sqm price": "8700",
+    "Subscribers": 2349,
+    "Win chance": "0.51"
+  },
+  {
+    "Apartments": 19,
+    "City": "באר שבע",
+    "LotteryID": "1859",
+    "Sqm price": "8541",
+    "Subscribers": 3952,
+    "Win chance": "0.48"
+  },
+  {
+    "Apartments": 7,
+    "City": "שדרות",
+    "LotteryID": "1955",
+    "Sqm price": "6846",
+    "Subscribers": 1490,
+    "Win chance": "0.47"
+  },
+  {
+    "Apartments": 95,
+    "City": "באר יעקב",
+    "LotteryID": "1957",
+    "Sqm price": "13572",
+    "Subscribers": 21277,
+    "Win chance": "0.45"
+  },
+  {
+    "Apartments": 13,
+    "City": "אופקים",
+    "LotteryID": "1951",
+    "Sqm price": "7111",
+    "Subscribers": 2980,
+    "Win chance": "0.44"
+  },
+  {
+    "Apartments": 30,
+    "City": "ירושלים",
+    "LotteryID": "1841",
+    "Sqm price": "17940",
+    "Subscribers": 7059,
+    "Win chance": "0.42"
+  },
+  {
+    "Apartments": 80,
+    "City": "באר יעקב",
+    "LotteryID": "1958",
+    "Sqm price": "13572",
+    "Subscribers": 20517,
+    "Win chance": "0.39"
+  },
+  {
+    "Apartments": 27,
+    "City": "ירושלים",
+    "LotteryID": "1842",
+    "Sqm price": "18069",
+    "Subscribers": 6999,
+    "Win chance": "0.39"
+  },
+  {
+    "Apartments": 68,
+    "City": "אור יהודה",
+    "LotteryID": "1925",
+    "Sqm price": "10881",
+    "Subscribers": 17971,
+    "Win chance": "0.38"
+  },
+  {
+    "Apartments": 68,
+    "City": "אור יהודה",
+    "LotteryID": "1924",
+    "Sqm price": "10764",
+    "Subscribers": 18022,
+    "Win chance": "0.38"
+  },
+  {
+    "Apartments": 68,
+    "City": "אור יהודה",
+    "LotteryID": "1923",
+    "Sqm price": "10764",
+    "Subscribers": 18903,
+    "Win chance": "0.36"
+  },
+  {
+    "Apartments": 11,
+    "City": "נתיבות",
+    "LotteryID": "1920",
+    "Sqm price": "6201",
+    "Subscribers": 3220,
+    "Win chance": "0.34"
+  },
+  {
+    "Apartments": 67,
+    "City": "ראשון לציון",
+    "LotteryID": "1849",
+    "Sqm price": "15678",
+    "Subscribers": 19786,
+    "Win chance": "0.34"
+  },
+  {
+    "Apartments": 10,
+    "City": "אופקים",
+    "LotteryID": "1952",
+    "Sqm price": "5850",
+    "Subscribers": 3273,
+    "Win chance": "0.31"
+  },
+  {
+    "Apartments": 9,
+    "City": "נתיבות",
+    "LotteryID": "1921",
+    "Sqm price": "6201",
+    "Subscribers": 3068,
+    "Win chance": "0.29"
+  },
+  {
+    "Apartments": 9,
+    "City": "אופקים",
+    "LotteryID": "1953",
+    "Sqm price": "5850",
+    "Subscribers": 3308,
+    "Win chance": "0.27"
+  },
+  {
+    "Apartments": 44,
+    "City": "אור יהודה",
+    "LotteryID": "1926",
+    "Sqm price": "10881",
+    "Subscribers": 17977,
+    "Win chance": "0.24"
+  },
+  {
+    "Apartments": 44,
+    "City": "ראשון לציון",
+    "LotteryID": "1850",
+    "Sqm price": "15678",
+    "Subscribers": 19492,
+    "Win chance": "0.23"
+  },
+  {
+    "Apartments": 39,
+    "City": "באר יעקב",
+    "LotteryID": "1959",
+    "Sqm price": "13572",
+    "Subscribers": 20589,
+    "Win chance": "0.19"
+  },
+  {
+    "Apartments": 12,
+    "City": "ירושלים",
+    "LotteryID": "1843",
+    "Sqm price": "17901",
+    "Subscribers": 7011,
+    "Win chance": "0.17"
+  },
+  {
+    "Apartments": 7,
+    "City": "ירושלים",
+    "LotteryID": "1844",
+    "Sqm price": "17159",
+    "Subscribers": 7174,
+    "Win chance": "0.10"
+  }
+]
